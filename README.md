@@ -1,2 +1,4 @@
-# picgo_02
-🛏️ PicGO No.1 drawing bed
+# PicGO No.2 drawing bed
+```TEXT
+├─img pictures
+```
